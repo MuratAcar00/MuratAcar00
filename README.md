@@ -1,4 +1,5 @@
-<img width="961" height="200" alt="github-header-image" src="https://github.com/user-attachments/assets/5beac016-a59a-41a1-9146-40c0f98a619e" />
+<img width="961" height="200" alt="github-header-image (1)" src="https://github.com/user-attachments/assets/636eb970-2238-456a-bdd0-57d7f282d051" />
+
 <h3 align="center">An Aspiring AI Engineer | Learning AI & ML with Python from Türkiye</h3>
 
 
