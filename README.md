@@ -1,5 +1,5 @@
 <img width="961" height="200" alt="github-header-image" src="https://github.com/user-attachments/assets/5beac016-a59a-41a1-9146-40c0f98a619e" />
-<h3 align="center">A passionate Machine Learning Developer from Türkiye</h3>
+<h3 align="center">An Aspiring AI Engineer | Learning AI & ML with Python from Türkiye</h3>
 
 
 - 🔭 I’m currently working on **Python**
