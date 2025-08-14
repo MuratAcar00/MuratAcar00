@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MuratAcar00?tab=repositories](https://github.com/MuratAcar00?tab=repositories)
 
-- 📝 I regularly write articles on [https://medium.com/@muratacar1152](https://medium.com/@muratacar1152)
+- 📝 I regularly write articles on [https://medium.com/@muratacar0](https://medium.com/@muratacar0)
 
 - 💬 Ask me about **Machine Learning,Deep Learning and AI**
 
