@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/muratacar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muratacar1" height="30" width="40" /></a>
 <a href="https://kaggle.com/muratacar00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="muratacar00" height="30" width="40" /></a>
-<a href="https://medium.com/@muratacar1152" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muratacar1152" height="30" width="40" /></a>
+<a href="https://medium.com/@muratacar1152" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muratacar0" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/muratacar5893" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="muratacar5893" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jo9sratimg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jo9sratimg" height="30" width="40" /></a>
 </p>
