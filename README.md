@@ -2,6 +2,15 @@
 
 <h3 align="center">An Aspiring AI Engineer | Learning AI & ML with Python from Türkiye</h3>
 
+### 👋 Hi there, I'm Murat Acar!
+
+I'm a passionate learner and builder focused on technology.
+
+* 🎓 I graduated from İstinye University with a degree in **Computer Programming**.
+* 📚 I'm currently a student at Haliç University, studying **Management Information Systems**.
+* 🌱 I’m mastering my skills in **Python**.
+* 🎯 My Goal: To specialize in **Artificial Intelligence (AI)** and **Machine Learning (ML)**.
+* 💡 My Philosophy: I am self-motivated, disciplined, and love building things. I enjoy challenging myself with projects and finding practical solutions to real-world problems.
 
 - 🔭 I’m currently working on **Python**
 
