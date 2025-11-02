@@ -12,7 +12,6 @@ I'm a passionate learner and builder focused on technology.
 * 🎯 My Goal: To specialize in **Artificial Intelligence (AI)** and **Machine Learning (ML)**.
 * 💡 My Philosophy: I am self-motivated, disciplined, and love building things. I enjoy challenging myself with projects and finding practical solutions to real-world problems.
 
-- 🔭 I’m currently working on **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MuratAcar00?tab=repositories](https://github.com/MuratAcar00?tab=repositories)
 
