@@ -24,14 +24,29 @@ Computer Programming graduate from İstinye University, currently studying Manag
 
 <a href="https://github.com/MuratAcar00/Movie-Analysis"><img src="assets/movie.svg" width="100%" alt="Movie Analysis — explore my movie analysis work. Open repository." /></a>
 
-**[Explore all repositories →](https://github.com/MuratAcar00?tab=repositories)**
+<a href="https://github.com/MuratAcar00?tab=repositories"><img src="https://img.shields.io/badge/Explore_All_Repositories-242938?style=for-the-badge&amp;logo=github&amp;logoColor=39D353" height="38" alt="Explore all repositories" /></a>
 
 ## Tech stack
 
-| Languages | AI & Data | Tools & Platforms |
-| :--- | :--- | :--- |
-| <img src="https://skillicons.dev/icons?i=python,c,cs&amp;theme=dark&amp;perline=3" alt="Python, C, C sharp" /> | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&amp;theme=dark&amp;perline=2" alt="PyTorch, TensorFlow, Scikit-learn, OpenCV" /> | <img src="https://skillicons.dev/icons?i=git,linux,azure,dotnet,unity&amp;theme=dark&amp;perline=3" alt="Git, Linux, Azure, dot NET, Unity" /> |
-| ![SQL](https://img.shields.io/badge/SQL-161B22?style=for-the-badge) | ![Pandas](https://img.shields.io/badge/Pandas-161B22?style=for-the-badge&logo=pandas&logoColor=39D353) ![NumPy](https://img.shields.io/badge/NumPy-161B22?style=for-the-badge&logo=numpy&logoColor=39D353) | |
+**Languages**
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cs&amp;theme=dark" alt="Python, C, C sharp" height="48" />
+<img src="assets/sql.svg" alt="SQL" width="48" height="48" />
+</p>
+
+**AI & Data**
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&amp;theme=dark" alt="PyTorch, TensorFlow, Scikit-learn, OpenCV" height="48" />
+</p>
+
+![Pandas](https://img.shields.io/badge/Pandas-242938?style=for-the-badge&logo=pandas&logoColor=39D353)
+![NumPy](https://img.shields.io/badge/NumPy-242938?style=for-the-badge&logo=numpy&logoColor=39D353)
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,linux,azure,dotnet,unity&amp;theme=dark" alt="Git, Linux, Azure, dot NET, Unity" height="48" />
 
 ## GitHub activity
 
@@ -45,9 +60,16 @@ Computer Programming graduate from İstinye University, currently studying Manag
 
 ## Connect & explore
 
-[LinkedIn](https://linkedin.com/in/muratacar1) · [Medium](https://medium.com/@muratacar0) · [Kaggle](https://kaggle.com/muratacar00) · [HackerRank](https://www.hackerrank.com/muratacar5893) · [LeetCode](https://www.leetcode.com/jo9sratimg)
-
-**Let's connect:** [muratacar1152@gmail.com](mailto:muratacar1152@gmail.com)
+<p>
+<a href="https://linkedin.com/in/muratacar1"><img src="https://img.shields.io/badge/LinkedIn-242938?style=for-the-badge&amp;label=in&amp;labelColor=242938" height="38" alt="LinkedIn" /></a>
+<a href="https://medium.com/@muratacar0"><img src="https://img.shields.io/badge/Medium-242938?style=for-the-badge&amp;logo=medium&amp;logoColor=39D353" height="38" alt="Medium" /></a>
+<a href="https://kaggle.com/muratacar00"><img src="https://img.shields.io/badge/Kaggle-242938?style=for-the-badge&amp;logo=kaggle&amp;logoColor=39D353" height="38" alt="Kaggle" /></a>
+</p>
+<p>
+<a href="https://www.hackerrank.com/muratacar5893"><img src="https://img.shields.io/badge/HackerRank-242938?style=for-the-badge&amp;logo=hackerrank&amp;logoColor=39D353" height="38" alt="HackerRank" /></a>
+<a href="https://www.leetcode.com/jo9sratimg"><img src="https://img.shields.io/badge/LeetCode-242938?style=for-the-badge&amp;logo=leetcode&amp;logoColor=39D353" height="38" alt="LeetCode" /></a>
+<a href="mailto:muratacar1152@gmail.com"><img src="https://img.shields.io/badge/Email-242938?style=for-the-badge&amp;logo=gmail&amp;logoColor=39D353" height="38" alt="Email" /></a>
+</p>
 
 ---
 <div align="center"><sub>Learn. Build. Understand. Improve.</sub></div>
