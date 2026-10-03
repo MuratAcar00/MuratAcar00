@@ -42,15 +42,12 @@ For a quick introduction to my work, check the pinned repositories below this RE
 
 ---
 
-### Tech stack
-
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cs&theme=dark" alt="Python, C, and C sharp" />
+  <img src="https://skillicons.dev/icons?i=python,c,cs&theme=dark" alt="Python, C, C#" />
+  <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=database&logoColor=39D353" height="48" alt="SQL" />
 </p>
-
-SQL
 
 **AI & data science**
 
